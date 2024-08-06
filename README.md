@@ -2,7 +2,8 @@
 <h1 align="center">Hi! I’m Sena Aksu ✨ 💫</h1>
 
 
-<img align="right" alt="Sena Aksu" width="400" src="(https://github.com/user-attachments/assets/c277ab9b-19c8-4a43-8af5-c2ba0ffc2348" style="display: block; margin-top: 50px;">
+<img align="right" alt="Sena Aksu" width="400" src="(![Ekran görüntüsü 2024-08-06 053233](https://github.com/user-attachments/assets/e575b682-798d-4f66-9364-b9259f354562)
+" style="display: block; margin-top: 50px;">
 
 <ul style="list-style-type: none; padding-left: 0; font-size: 20px; line-height: 1.5;">
   <li style="position: relative; padding-left: 25px; margin-bottom: 20px;">
