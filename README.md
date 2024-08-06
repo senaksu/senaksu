@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! I’m Sena Aksu ✨ 💫</h1>
+<h1 align="center">Hi! I’m Sena Aksu  💫</h1>
 
 
 <img align="right" alt="Sena Aksu" width="400" src="https://github.com/user-attachments/assets/e575b682-798d-4f66-9364-b9259f354562" style="display: block; margin-top: 50px;">
