@@ -21,10 +21,7 @@
     <span style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); border: 2px solid black; border-radius: 50%; width: 12px; height: 12px; background-color: white;"></span>
     📫 Connect with me on <a href="https://www.linkedin.com/in/senaksu/">LinkedIn</a> or via email at <a href="mailto:aksusenaa1@gmail.com">aksusenaa1@gmail.com</a>.
   </li>
-  <li style="position: relative; padding-left: 25px; margin-bottom: 20px;">
-    <span style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); border: 2px solid black; border-radius: 50%; width: 12px; height: 12px; background-color: white;"></span>
-    ⚡ Fun fact: In my AI projects, I feel like a Jedi uncovering galactic secrets with algorithms!
-  </li>
+  
 </ul>
 
 
