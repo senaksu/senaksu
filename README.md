@@ -21,8 +21,8 @@
     <span style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); border: 2px solid black; border-radius: 50%; width: 12px; height: 12px; background-color: white;"></span>
     📫 Connect with me on <a href="https://www.linkedin.com/in/senaksu/">LinkedIn</a> or via email at <a href="mailto:aksusenaa1@gmail.com">aksusenaa1@gmail.com</a>.
   </li>
-  <li 
-  </li>
+<br>
+<br>
   
 </ul>
 
